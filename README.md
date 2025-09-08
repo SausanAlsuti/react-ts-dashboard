@@ -1,3 +1,24 @@
+# My README content
+# Sausan Dashboard
+
+A clean and minimal **React + TypeScript + Vite** dashboard starter project.
+
+## 🚀 Tech Stack
+- [React](https://react.dev/) (TypeScript)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/) (styling)
+- [shadcn/ui](https://ui.shadcn.com/) (UI components)
+- [lucide-react](https://lucide.dev/) (icons)
+- [framer-motion](https://www.framer.com/motion/) (animations)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/SausanAlsuti/react-ts-dashboard.git
+cd react-ts-dashboard
+npm install
+npm run dev
+```
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -64,4 +85,3 @@ export default tseslint.config([
     },
   },
 ])
-# My README content
